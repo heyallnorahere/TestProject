@@ -1,0 +1,6 @@
+{
+    "name": "TestProject",
+    "asset_registry": "Assets.sgeregistry",
+    "asset_directory": "Assets",
+    "start_scene": "Scenes/TestScene.sgescene"
+}

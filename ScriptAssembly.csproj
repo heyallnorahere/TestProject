@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <LangVersion>latest</LangVersion>
+        <RootNamespace>TestProject</RootNamespace>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="$(SGE_DIR)\assets\assemblies\SGE.Scriptcore.dll" />
+    </ItemGroup>
+
+</Project>
