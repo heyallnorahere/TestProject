@@ -59,5 +59,11 @@ namespace TestProject.Assets.Scripts
         }
 
         public float Speed { get; set; } = 500f;
+
+        [SectionHeader("Foo")]
+        public int OtherProperty1 { get; set; } = 42;
+
+        [SectionHeader("Foo/Bar")]
+        public bool OtherProperty2 { get; set; } = true;
     }
 }
