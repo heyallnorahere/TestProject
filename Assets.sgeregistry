@@ -1,32 +1,37 @@
 [
-  {
-    "guid": null,
-    "path": "Scripts/Cloning.cs",
-    "type": null
-  },
-  {
-    "guid": null,
-    "path": "Scripts/CameraScript.cs",
-    "type": null
-  },
-  {
-    "guid": null,
-    "path": "Scripts/ExampleScript.cs",
-    "type": null
-  },
-  {
-    "guid": null,
-    "path": "Scenes/TestScene.sgescene",
-    "type": null
-  },
-  {
-    "guid": null,
-    "path": "Scenes/Cloning.sgescene",
-    "type": null
-  },
-  {
-    "guid": 9185101818755800820,
-    "path": "Textures/Tux.png",
-    "type": "texture_2d"
-  }
+    {
+        "guid": null,
+        "path": "Scripts/Cloning.cs",
+        "type": null
+    },
+    {
+        "guid": null,
+        "path": "Scripts/CameraScript.cs",
+        "type": null
+    },
+    {
+        "guid": null,
+        "path": "Scenes/TestScene.sgescene",
+        "type": null
+    },
+    {
+        "guid": null,
+        "path": "Scripts/ExampleScript.cs",
+        "type": null
+    },
+    {
+        "guid": null,
+        "path": "Scenes/Cloning.sgescene",
+        "type": null
+    },
+    {
+        "guid": 9185101818755800820,
+        "path": "Textures/Tux.png",
+        "type": "texture_2d"
+    },
+    {
+        "guid": 831466334755039967,
+        "path": "Test.sgeprefab",
+        "type": "prefab"
+    }
 ]
