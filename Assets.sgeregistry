@@ -1,11 +1,6 @@
 [
     {
         "guid": null,
-        "path": "Scripts/Cloning.cs",
-        "type": null
-    },
-    {
-        "guid": null,
         "path": "Scripts/CameraScript.cs",
         "type": null
     },
@@ -20,18 +15,13 @@
         "type": null
     },
     {
-        "guid": null,
-        "path": "Scenes/Cloning.sgescene",
-        "type": null
-    },
-    {
         "guid": 9185101818755800820,
         "path": "Textures/Tux.png",
         "type": "texture_2d"
     },
     {
-        "guid": 831466334755039967,
-        "path": "Test.sgeprefab",
-        "type": "prefab"
+        "guid": 13098759330924284540,
+        "path": "TestShader.hlsl",
+        "type": "shader"
     }
 ]
