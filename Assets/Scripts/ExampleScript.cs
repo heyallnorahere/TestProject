@@ -21,7 +21,7 @@ namespace TestProject.Assets.Scripts
             modifier -= Input.GetKey(KeyCode.A) ? 1f : 0f;
 
             var rigidbody = GetComponent<RigidBodyComponent>();
-            rigidbody.AddForce(force * modifier);
+            rigidbody.ApplyForce(force * modifier);
         }
 
         public void OnCollision(Entity entity)
